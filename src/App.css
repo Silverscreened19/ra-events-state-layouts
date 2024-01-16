@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-tap-highlight-color: transparent;
+  box-sizing: border-box;
+}
+
+body,
+html {
+  font-family: Geneva, Verdana, Tahoma, sans-serif;
+  height: 100%;
+  overflow-x: hidden;
+  user-select: none;
+
+  background: #ffffff;
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center
+}
+
+.container {
+  position: relative;
+  left: 8rem;
+  right: 8rem;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: column;
+
+  width: 100%;
+  max-width: 1200px;
+  min-height: 500px;
+
+  padding: 20px;
+}
