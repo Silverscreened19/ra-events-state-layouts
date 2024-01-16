@@ -1,5 +1,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/hkb7iy6yv5b76mx5?svg=true)](https://ci.appveyor.com/project/Silverscreened19/ra-events-state-layouts)
 
+https://silverscreened19.github.io/ra-events-state-layouts/
+
 Расположение товаров
 ===
 
